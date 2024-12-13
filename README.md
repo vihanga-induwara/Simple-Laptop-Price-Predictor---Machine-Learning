@@ -1,4 +1,3 @@
-Here is a properly formatted Markdown for your project, "Simple Laptop Price Predictor - Machine Learning":
 
 ```markdown
 # Simple Laptop Price Predictor - Machine Learning
